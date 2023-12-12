@@ -1,0 +1,14 @@
+[
+    {
+      "name": "blackjack",
+      "live": "https://sjdiggs.github.io/Blackjack-21-game/",
+      "git": "https://github.com/SJDiggs/Blackjack-21-game",
+      "image": "https://townsquare.media/site/46/files/2023/09/attachment-pexels-pixabay-269630-1.jpg?w=980&q=75"
+    },
+    {
+      "name": "pet-partner",
+      "live": "https://pet-partners-1c56ce19ad35.herokuapp.com/r",
+      "git": "https://github.com/DuaneWellington/Project-2",
+      "image": "https://github.com/DuaneWellington/Project-2/blob/main/public/images/RM_PetsListMain2.png"
+    }
+  ]
