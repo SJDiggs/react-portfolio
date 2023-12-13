@@ -1,6 +1,6 @@
 // PATH:  pages/about.jsx
 import { useState, useEffect } from "react"
-
+import "./About.css"
 
 function About() {
     // 1. create state to hold about data
@@ -24,11 +24,15 @@ useEffect(() => { getAboutData() } , []);
 
 // define a function that will return the JSX needed once we get the data
 const loaded = () => (
-<div>
-  <h2>{about.name}</h2>
-  <h3>{about.email}</h3>
-  <p>{about.bio}</p>
-</div>
+  
+  <div className="my-info">
+    <div className="bioPic">
+      <img src={about.headshot} className="headshot"/>
+    </div>
+    {/* <h2>{about.name}</h2>
+    <h3>{about.email}</h3> */}
+    <p>{about.bio}</p>
+  </div>
 );
 
 // if data arrives return the result of loaded, if not, an h1 that says loading

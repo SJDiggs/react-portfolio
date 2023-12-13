@@ -1,0 +1,40 @@
+.footer-section {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: silver;
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+}
+.icon-container {
+    display: flex;
+    width: 100px;
+    height: 40px;
+    justify-content: center;
+   align-items: center;
+}
+.copyright {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    border-top: 1px solid black; /* Add a border above footerContent */
+    margin-top: 3px; /* Adjust padding as needed */
+}
+
+.linkedin-icon {
+    height: 40px;
+    width: 80px;
+}
+
+.github-icon {
+    height: 39px;
+    width: 42px;
+    border-radius: 4px;
+}
+
