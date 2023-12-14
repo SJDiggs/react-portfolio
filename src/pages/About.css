@@ -57,3 +57,11 @@
     margin-left: 10%;
 
   }
+
+  .contact-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+    font-weight: bolder;
+  }

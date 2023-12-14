@@ -29,7 +29,7 @@ const loaded = () => (
     <div className="bioPic">
       <img src={about.headshot} className="headshot"/>
     </div>
-    
+
     {/* <h2>{about.name}</h2>
     <h3>{about.email}</h3> */}
     <div className="bio-info">
@@ -37,7 +37,8 @@ const loaded = () => (
     </div>
 
     <div className="contact-info">
-
+      <a href="mailto:stevediggs70@gmail.com" target="_blank"> Click Here To Email Me!</a>
+      {/* <h3>{about.email}</h3> */}
     </div>
   </div>
 );
