@@ -17,7 +17,7 @@ function Header() {
 
   return (
     <header className="header-container">
-      <h1>Steve DiGiambattista Dev Portfolio</h1>
+      <h1>Steve DiGiambattista, <span>Software Engineer</span></h1>
       <nav style={navStyle}>
         <Link to="/">
           <div>SKILLS</div>

@@ -35,7 +35,12 @@
 
 .github-icon {
     height: 39px;
-    width: 42px;
+    width: 47px;
     border-radius: 4px;
 }
-
+.resume-icon {
+    height: 39px;
+    width: 40px;
+    border-radius: 5px 5px 5px 22px;
+    padding-left: 20px;
+}

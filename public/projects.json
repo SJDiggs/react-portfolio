@@ -1,14 +1,16 @@
 [
     {
-      "name": "blackjack",
+      "name": "BlackJack",
       "live": "https://sjdiggs.github.io/Blackjack-21-game/",
       "git": "https://github.com/SJDiggs/Blackjack-21-game",
-      "image": "https://townsquare.media/site/46/files/2023/09/attachment-pexels-pixabay-269630-1.jpg?w=980&q=75"
+      "image": "https://i.imgur.com/nlyfYa1.png",
+      "description": "blah blablahs ahskdj ashdjad djaslddladda ahsdjlsldjsldjs jsdljsldsldjsdfsfsdfsfsf."
     },
     {
-      "name": "pet-partner",
+      "name": "Pet Partner",
       "live": "https://pet-partners-1c56ce19ad35.herokuapp.com/r",
       "git": "https://github.com/DuaneWellington/Project-2",
-      "image": "https://github.com/DuaneWellington/Project-2/blob/main/public/images/RM_PetsListMain2.png"
+      "image": "https://i.imgur.com/7BUdbHK.png",
+      "description": "blah blablahs ahskdj ashdjad djaslddladda ahsdjlsldjsldjs jsdljsldsldj.sdfsdfsfsfsfsfsdf"
     }
   ]

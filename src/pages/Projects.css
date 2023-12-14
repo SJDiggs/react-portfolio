@@ -1,0 +1,52 @@
+.projects-container {
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 90%;
+    /* background-color: aqua; */
+    margin: 40px 100px -30px 100px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 7px silver;
+    filter: drop-shadow(0px 0px 5px #555);
+    animation: fadeIn 1s;
+}
+
+.project-image {
+    height: 200px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.project-image:hover {
+    transform: scale(1.5);
+    border-radius: 5px;
+    z-index: 202020;
+    /* height: 500px;
+    width: 800px; */
+}
+
+
+.project-name {
+    /* background-color: purple; */
+    width: 9rem;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.project-description {
+    /* background-color: yellow; */
+    width: 50%;
+}
+
+.action-buttons {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+.action-buttons button {
+    background-color: silver;
+    border: none;
+    border-radius: 16px;
+    color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
