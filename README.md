@@ -7,7 +7,7 @@ This project is built off the React framework, and leverages Javascript as the b
 
 # Production Deployment Link:
 
-- [here](inset netlify link)
+- [here](https://main--stellar-klepon-ae3632.netlify.app/)
 
 
 # Technologies used in this project:
@@ -20,14 +20,10 @@ This project is built off the React framework, and leverages Javascript as the b
 
 # Acknowledgments
 
-- ack1...
-- ack2...
+- Various Youtube videos and google searches to build the carousel
 
 
 # References for source material/inspiration
-
-- ref1...
-- ref2...
 
 
 # Future enhancements/features

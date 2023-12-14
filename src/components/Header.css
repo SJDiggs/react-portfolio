@@ -12,6 +12,8 @@
     font-size: 38px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
+    /* margin: 50px, 0px, 0px, 0px; */
+    padding-left: 70px;
   }
   span {
     font-size: 25px;

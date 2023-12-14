@@ -29,9 +29,16 @@ const loaded = () => (
     <div className="bioPic">
       <img src={about.headshot} className="headshot"/>
     </div>
+    
     {/* <h2>{about.name}</h2>
     <h3>{about.email}</h3> */}
+    <div className="bio-info">
     <p>{about.bio}</p>
+    </div>
+
+    <div className="contact-info">
+
+    </div>
   </div>
 );
 

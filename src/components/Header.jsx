@@ -20,7 +20,7 @@ function Header() {
       <h1>Steve DiGiambattista, <span>Software Engineer</span></h1>
       <nav style={navStyle}>
         <Link to="/">
-          <div>SKILLS</div>
+          <div>HOME</div>
         </Link>
         <Link to="/about">
           <div>ABOUT</div>

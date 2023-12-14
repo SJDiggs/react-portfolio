@@ -4,13 +4,15 @@
       "live": "https://sjdiggs.github.io/Blackjack-21-game/",
       "git": "https://github.com/SJDiggs/Blackjack-21-game",
       "image": "https://i.imgur.com/nlyfYa1.png",
-      "description": "blah blablahs ahskdj ashdjad djaslddladda ahsdjlsldjsldjs jsdljsldsldjsdfsfsdfsfsf."
+      "description": "BlackJack is a single-player browser game built on the backbones of vanilla Javascript, HTML and CSS for styling.  This project also incorporates a wagering system, interactivce buttons and an internal messaging system.  Event listeners were incorporated to interact with the button system and various states were set according to the users logic path.  The projects leverages a logical function flow for to initialize the game, shuffle the deck, deal the player and dealer cards, set rules, determine player actions, and finally identify a winner.",
+      "technology": "Javascript, HTML, CSS"
     },
     {
       "name": "Pet Partner",
       "live": "https://pet-partners-1c56ce19ad35.herokuapp.com/r",
-      "git": "https://github.com/DuaneWellington/Project-2",
+      "git": "https://github.com/DuaneWellington/Pet-Partner",
       "image": "https://i.imgur.com/7BUdbHK.png",
-      "description": "blah blablahs ahskdj ashdjad djaslddladda ahsdjlsldjsldjs jsdljsldsldj.sdfsdfsfsfsfsfsdf"
+      "description": "Pet Partner is a MEN (MongoDB, Express and NodeJS) application written in Javascript. The application incorporates the Google Oauth API to capture user login information.  The application was delivered with 2 personas; end-user and admin, and displays full CRUD (Create, Read, Update and Delete) functionality.  The app value proposition is to align short-term pet fosterers with available animals contained in a MonogoDB.  There are 2 models, 3 Schema's, and several interactive forms.  Admins can delete an animal from the MongoDB pet collection, while users can update flags when selecting a pet.",
+      "technology": "Javascript, HTML, CSS, Express, MongoDB, Mongoose, EJS, NodeJS"
     }
   ]

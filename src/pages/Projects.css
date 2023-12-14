@@ -6,8 +6,8 @@
     /* background-color: aqua; */
     margin: 40px 100px -30px 100px;
     border-radius: 10px;
-    box-shadow: 0px 0px 7px silver;
-    filter: drop-shadow(0px 0px 5px #555);
+    /* box-shadow: 0px 0px 7px silver;
+    filter: drop-shadow(0px 0px 5px #555); */
     animation: fadeIn 1s;
 }
 
@@ -31,17 +31,51 @@
     width: 9rem;
     font-size: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color:darkgreen;
 }
 
 .project-description {
-    /* background-color: yellow; */
-    width: 50%;
+    /* background-color: beige; */
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    color: darkgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 10px;
+    font-weight: bold;
 }
+
+.technologies-used {
+    display: grid;
+    background-color: rgb(156, 208, 158);
+    opacity: 80%;
+    height: 80px;
+    width:200px;
+    height: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgreen;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px silver;
+    filter: drop-shadow(0px 0px 5px #555); 
+}
+
+h3 {
+    justify-content: center;
+    text-align: center;
+}
+.tech-icon {
+    /* background-color: brown; */
+    width: 100%;
+    height:fit-content
+}
+
 
 .action-buttons {
     display: flex;
     flex-direction: column;
     padding-top: 20px;
+    padding-left: 20px;
 }
 .action-buttons button {
     background-color: silver;
